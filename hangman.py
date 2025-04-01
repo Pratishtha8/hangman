@@ -1,3 +1,5 @@
+#Hello
+
 import random
 words = ["parakeet", "meerkat", "beaver", "platypus", "orangutan", "armadillo", "hippopotamus", "labradoodle" "hyena", "jackal", "parrot", "woodpecker", "kingfisher", "ferret", "flamingo", "penguin" ]
 
